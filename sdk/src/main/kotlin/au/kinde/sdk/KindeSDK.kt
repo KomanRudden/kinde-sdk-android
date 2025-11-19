@@ -33,7 +33,6 @@ import java.math.BigInteger
 import java.security.KeyFactory
 import java.security.Signature
 import java.security.spec.RSAPublicKeySpec
-import kotlin.compareTo
 import kotlin.concurrent.thread
 
 class KindeSDK(
